@@ -12,3 +12,5 @@ dargeboten als Buchlesung, Kurzfilm, Zeichentrick oder Puppenspiel.
 * verstreut Schlafsand
 * ist eine animierte Puppe
 
+Die Sendung endet mit:
+> Ich wünsch' euch gute Nacht!

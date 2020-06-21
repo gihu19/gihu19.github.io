@@ -14,3 +14,5 @@ dargeboten als Buchlesung, Kurzfilm, Zeichentrick oder Puppenspiel.
 
 Die Sendung endet mit:
 > Ich wünsch' euch gute Nacht!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Bundesarchiv_Bild_183-U1109-022%2C_Berlin%2C_Sandm%C3%A4nnchen.jpg" />
